@@ -54,4 +54,6 @@ Welcome to **Kitchen Craze** – a fast-paced, fun, and challenging game where y
 1. **Clone the Repository**:
    ```bash
    git clone https://github.com/adss0/KitchenCraze.git
-   
+## License 📄
+
+This project is licensed under the MIT License.
